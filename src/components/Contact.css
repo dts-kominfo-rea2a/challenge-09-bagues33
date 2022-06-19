@@ -1,0 +1,12 @@
+.card-item {
+	display: flex;
+	background-color: #f4deb3;
+	padding: 1em;
+	margin-top: 1em;
+	border-radius: 30px;
+}
+
+.card-item img {
+	border-radius: 100%;
+	width: 200px;
+}

@@ -1,0 +1,16 @@
+div {
+	text-align: center;
+	width: 100%;
+}
+
+h2 {
+	text-align: center;
+	/*color: red;*/
+}
+
+p.titik {
+	color: #ff8080;
+	margin: 0;
+	font-size: 2rem;
+	letter-spacing: 3px;
+}

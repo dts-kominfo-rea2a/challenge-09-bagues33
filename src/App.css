@@ -1,4 +1,9 @@
 .App {
   text-align: center;
-  display: flex;
+  /*display: flex;*/
+}
+
+.card {
+  margin: 1em auto;
+  width: 550px;
 }
